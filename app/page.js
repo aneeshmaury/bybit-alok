@@ -11,11 +11,11 @@ export default function Home() {
     </div>
 <div className=" flex flex-col items-center justify-center">
 <div>
-<img className="absolute  left-36 h-[400px]" src="deco.png"/>
+<img className="absolute  left-36 h-[300px]" src="deco.png"/>
 <img className="absolute right-44  h-[300px]" src="deco.png"/>
 
-  <img className="h-[370px]" src="gift.png"/>
-  <img className=" absolute top-[320px] left-2 h-20 " src="spacialoffer.png"/>
+  <img className="h-[300px]" src="gift.png"/>
+  <img className=" absolute top-[220px] left-2 h-20 " src="spacialoffer.png"/>
 </div>
  
 
@@ -38,20 +38,40 @@ export default function Home() {
  for expert insights, trading tips,
  market analysis, and discussions 
 on the latest trends in cryptocurrency.</p>
-<a href="#"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Join Now</button></a>
+<a href="https://t.me/cryptoalok"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Join Now</button></a>
 </div>
 </div>
+
+
 <div className="flex px-4 gap-6 justify-center items-center mt-7 ">
-<div>
-<img className=" w-[300px]" src="telegramlogo.png"/>
-</div>
 <div className="flex flex-col items-center">
-  <h1 className="text-white text-center text-xl font-bold">Telegram Channel</h1>
+  <h1 className="text-white text-center text-xl font-bold">Instagram</h1>
   <p className="text-white text-sm text-center mt-2">Your essential channel
  for expert insights, trading tips,
  market analysis, and discussions 
 on the latest trends in cryptocurrency.</p>
-<a href="#"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Join Now</button></a>
+<a href="https://x.com/cryptoalok_?s=09"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Follow Now</button></a>
+</div>
+<div>
+<img className=" w-[300px]" src="instagram.png
+"/>
+</div>
+
+</div>
+
+
+<div className="flex px-4 gap-6 justify-center items-center mt-7 ">
+<div>
+<img className=" w-[300px]" src="twitterlogo.png
+"/>
+</div>
+<div className="flex flex-col items-center">
+  <h1 className="text-white text-center text-xl font-bold">Twitter</h1>
+  <p className="text-white text-sm text-center mt-2">Your essential channel
+ for expert insights, trading tips,
+ market analysis, and discussions 
+on the latest trends in cryptocurrency.</p>
+<a href="https://x.com/cryptoalok_?s=09"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Follow Now</button></a>
 </div>
 </div>
 
