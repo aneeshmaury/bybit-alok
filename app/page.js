@@ -22,7 +22,7 @@ export default function Home() {
 <div className="text-white font-bold text-2xl text-center">Sign up to get <span className="text-yellow-400">$5,020</span> in
  Bonuses and Mystery Boxes</div> 
  
- <div className="bg-yellow-400 text-center rounded-md font-bold mt-6 py-2 px-4 w-[230px]">Sign Up for Rewards</div>
+<a href="https://www.bybit.com/invite?ref=DQPVB8"> <div className="bg-yellow-400 text-center rounded-md font-bold mt-6 py-2 px-4 w-[230px]">Sign Up for Rewards</div></a>
 <img className="w-44 mt-[-20px]" src="bybitlogo.png"/>
 
 </div>
@@ -50,7 +50,7 @@ on the latest trends in cryptocurrency.</p>
  for expert insights, trading tips,
  market analysis, and discussions 
 on the latest trends in cryptocurrency.</p>
-<a href="https://x.com/cryptoalok_?s=09"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Follow Now</button></a>
+<a href="https://www.instagram.com/crypto_alok?igsh=czlnNzI0cjlrbTRm"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Follow Now</button></a>
 </div>
 <div>
 <img className=" w-[300px]" src="instagram.png
@@ -74,6 +74,8 @@ on the latest trends in cryptocurrency.</p>
 <a href="https://x.com/cryptoalok_?s=09"><button className="bg-yellow-400 px-6 py-1 rounded-md font-bold mt-3">Follow Now</button></a>
 </div>
 </div>
+
+
 
 </div>   
 
